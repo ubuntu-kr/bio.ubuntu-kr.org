@@ -27,7 +27,7 @@ vcf:
   lastName: Lim
   work:
     org: Ubuntu Korea Community
-    role: event organizer
+    role: Event Organizer
     title: Organizer
   phone: +82-10-6304-4746
   emails:
