@@ -18,5 +18,5 @@ buttons:
       link: https://2026.ubuntu-kr.org/ko/sponsors/become-a-sponsor/
       label: Sponsorship information
 ---
-August 29, 2025 - Microsoft Korea, Seoul, South Korea  
+August 29, 2026 - Microsoft Korea, Seoul, South Korea | Joint event with MiniDebConf Korea  
 Previous editions: [2025](https://2025.ubuntu-kr.org), [2024](https://2024.ubuntu-kr.org), [2023](https://2023.ubuntu-kr.org), [2022](https://2022.ubucon.asia)
