@@ -18,5 +18,5 @@ buttons:
       link: https://2026.ubuntu-kr.org/ko/sponsors/become-a-sponsor/
       label: 후원사 참여 정보
 ---
-2025년 8월 29일 한국마이크로소프트  
+2026년 8월 29일 한국마이크로소프트 | MiniDebConf Korea 공동개최  
 지난행사: [2025년](https://2025.ubuntu-kr.org), [2024년](https://2024.ubuntu-kr.org), [2023년](https://2023.ubuntu-kr.org), [2022년](https://2022.ubucon.asia)
