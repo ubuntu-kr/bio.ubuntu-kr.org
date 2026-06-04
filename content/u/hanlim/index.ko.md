@@ -16,7 +16,7 @@ social:
   - label: LinkedIn | Han Lim
     typeLabel: LinkedIn
     link: https://www.linkedin.com/in/han-im-cloud/
-  - label: OpenPGP | B9552204B0E02A33FC7416E9BB7E36349217E559
+  - label: OpenPGP | BB7E36349217E559
     typeLabel: OpenPGP Key
     link: https://keyserver.ubuntu.com/pks/lookup?search=B9552204B0E02A33FC7416E9BB7E36349217E559&fingerprint=on&op=index
 button:
